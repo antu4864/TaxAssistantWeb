@@ -1,15 +1,15 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: red;
+  background: #000e50;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 
@@ -18,35 +18,31 @@ code {
   width: 100%;
   text-align: left;
   font-family: Roboto;
-  
 }
-  
-.container1{
+
+.container1 {
   background: rgb(183, 212, 50);
   color: white;
   padding-left: 16px;
   padding-right: 16px;
   padding-top: 0.07px;
-  font-family: Arial; 
+  font-family: Arial;
 }
 
-
-.con{
+.con {
   padding-left: 16px;
   padding-right: 16px;
-   margin-top: 1.3px;
+  margin-top: 1.3px;
   font-size: 18px;
   font-family: Arial;
-  
-  
 }
-.Link{  
-    text-decoration: none;  
-    color: white;  
-    font-family: Roboto;
-   } 
- 
-.con1{
+.Link {
+  text-decoration: none;
+  color: white;
+  font-family: Roboto;
+}
+
+.con1 {
   padding-left: 16px;
   padding-right: 16px;
   font-family: Arial;
