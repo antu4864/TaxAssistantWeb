@@ -3,7 +3,7 @@ import React from 'react';
 const Error=() => {
   return (
    <>
-   <h1>opps! Page not found</h1>
+   <h1>opps! just a demo Page not found</h1>
 
    </>
   );
