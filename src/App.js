@@ -6,7 +6,7 @@ import It from "./It";
 import Pas from "./Pas";
 import Vat from "./vta";
 import Menu from "./Menu";
-import Error from "./Error";
+
   
 
 const App = () => {
