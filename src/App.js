@@ -14,8 +14,8 @@ const App = () => {
     <> 
      
       <Switch>
-        <Route exact path='/' component={Menu} />
-        <Route exact path='/keytaxdate' component={Keytaxdate} />
+        <Route exact path='/TaxAssistantWeb' component={Menu} />
+        <Route path='/keytaxdate' component={Keytaxdate} />
         <Route path='/cg' component={Cg}/>
         <Route path='/It' component={It}/>
         <Route path='/Pas' component={Pas}/>
