@@ -6,7 +6,7 @@ import It from "./It";
 import Pas from "./Pas";
 import Vat from "./vta";
 import Menu from "./Menu";
-
+import Error from "./Error";
   
 
 const App = () => {
@@ -20,7 +20,7 @@ const App = () => {
         <Route path='/It' component={It}/>
         <Route path='/Pas' component={Pas}/>
         <Route path='/Vat' component={Vat}/>
-        <Route component={Error} />
+       
       </Switch>
  
    </>
