@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowBack } from '@material-ui/icons';
+{/*import { ArrowBack } from '@material-ui/icons';
 import Toolbar from "@material-ui/core/Toolbar";
 import AppBar from "@material-ui/core/AppBar";
 import IconButton from "@material-ui/core/IconButton";
@@ -35,6 +35,9 @@ const Header=()=>{
 
 </Toolbar>
 </AppBar>
-</div>
-    )};
+  </div>*/}
+  const Header=()=>{
+    return(
+     <center><h2 className="ab">Key Tax Date</h2></center> 
+    );}
 export default Header;

@@ -21,7 +21,7 @@ const Menu=() => {
               <Link to="/Pas" className='Link'>Pay as You Earn (PAYE) and Construction Industry Scheme (CIS) Filing and Payment Deadlines </Link>
               <hr/>
               <Link to="/Vat" className='Link'>VAT Filing and Payment Deadlines</Link>
-          
+              <hr/>
             </div>        
           
           </div> 

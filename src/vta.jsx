@@ -19,7 +19,7 @@ b. Those who qualify for an exemption from filing online must file their paper-b
 c. Where there is a part-year of less than 4 months, an entity will only be permitted a month to submit their return and balancing payment.</p>
            </div>
         </div>
-        <br/><br/>
+        <br/>
         <div className='container'>
             <div>
             <h4>VAT - Payment</h4>
@@ -31,7 +31,7 @@ Different rules apply for those who account for their VAT under the Annual Accou
         </div>
         </div>
     
-    <br/><br/>
+    <br/>
     <div className='container'>
         <div>
             <h4>Disclaimer</h4>

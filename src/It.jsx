@@ -20,7 +20,7 @@ Where a taxpayer wishes an underpayment of less than £3,000 to be collected thr
 Within three months of the date of issue; or two months, where the return is paper-based and HMRC is to calculate the tax liability.</p>
           </div>
         </div>
-        <br/> <br/>
+        <br/> 
         <div className="container">
             <div>
             <h3>Other Self-Assessment - Deadlines</h3>
@@ -28,10 +28,10 @@ Within three months of the date of issue; or two months, where the return is pap
 On or before the 5th of October following the end of the tax year concerned.</p>
             </div>
         </div>
-        <br/> <br/>
+        <br/> 
           <div className="container">
             <div>
-              <h4>Self-Assessment Tax Payment Deadlines</h4>
+              <h3>Self-Assessment Tax Payment Deadlines</h3>
               <p>Balance of tax due (balancing payment) in respect of the preceding tax year.<br/><br/>
 On or before the 31st January following the tax year concerned.<br/><br/>
 1st payment on account (for current tax year). On or before the 31st January following the tax year concerned.<br/><br/>
@@ -39,14 +39,14 @@ On or before the 31st January following the tax year concerned.<br/><br/>
 On or before the 31st July following the tax year concerned.</p>
             </div>
           </div>
-          <br/><br/>
+          <br/>
           <div className='container'>
             <h4>Disclaimer</h4>
             <p>Please note that you should not take any action based on these tax dates, they are for advisory purposes only.<br/><br/>
 You should consult us before making any decisions so that we can advise you on the best course of action.</p>
           </div>
     </div>
-
+    <br/>
 </>
   );
 }

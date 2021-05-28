@@ -21,14 +21,14 @@ Note:<br></br><br></br>
 • Micro entities may file simplified accounts.</p>
           </div>
         </div>
-        <br/><br/>
+        <br/>
         <div className="container">
           <div>
             <h3>Payment of Corporation Tax</h3>
              <p>Payment of Corporation Tax must be made no later than 9 months and 1 day from the end of a Corporation Tax Accounting Period.</p>
           </div>
         </div>
-        <br/><br/>
+        <br/>
         <div className="container">
           <div>
             <h3>Filing Statutory Accounts</h3>
@@ -41,7 +41,7 @@ a. Within 9 months of the accounting reference date (account period end) for a p
 b. Within 6 months of the accounting reference date for a public company.</p>
           </div>
         </div>
-        <br/><br/>
+        <br/>
         <div className="container">
           <div>
             <h3>Filing Confirmation Statement</h3>
@@ -56,7 +56,7 @@ b. Within 6 months of the accounting reference date for a public company.</p>
         • Your company may also be struck off the Companies House Register.</p> 
           </div>
         </div>
-        <br/><br/>
+        <br/>
         <div className="container">
           <div>
             <h3>Disclaimer</h3>
@@ -64,6 +64,7 @@ b. Within 6 months of the accounting reference date for a public company.</p>
                 You should consult us before making any decisions so that we can advise you on the best course of action.</p>
           </div>
         </div>
+        <br/>
   </div>
    </>
   );

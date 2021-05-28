@@ -11,13 +11,13 @@ const Keytaxdate=() => {
         <div className="container">
           <div>
             <h3>Returns relating to disposals of UK land - Submission Deadlines</h3>
-              <p>Since April 2020 any UK resident disposing of a UK residential property who has CGT to pay, has to calculate, report and pay the tax within 30 days of completion. The report must be made online via the UK Property Reporting Service.<br></br><br></br>
-                Note:<br></br><br></br>
+              <p>Since April 2020 any UK resident disposing of a UK residential property who has CGT to pay, has to calculate, report and pay the tax within 30 days of completion. The report must be made online via the UK Property Reporting Service.<br/><br/>
+                Note:<br/><br/>
                 Since April 2015, non-resident individuals are also liable to CGT on disposals of UK land or property.
                 If you have other capital gains to report</p>
           </div>
         </div>
-            <br></br>
+           
             <br></br>
               
         <div className="container">
@@ -31,15 +31,15 @@ const Keytaxdate=() => {
                <p>Taxpayers may also report their gains and pay the CGT due under Self Assessment in the tax year after the disposal was made.</p>
           </div>
         </div>
-          <br></br><br></br>
+          <br></br>
             <div class="container">
                 <div>
-                  <h4>Disclaimer</h4><br></br>
+                  <h4>Disclaimer</h4>
                  <p> Please note that you should not take any action based on these tax dates, they are for advisory purposes only.<br></br><br></br>
                   You should consult us before making any decisions so that we can advise you on the best course of action.</p>
                 </div>
                 </div>
-          
+          <br/>
     </div> 
    </>
   );

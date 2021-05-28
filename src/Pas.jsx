@@ -23,7 +23,7 @@ a. Deadline for filing expenses and benefits forms P9D, P11D, P11D(b) relating t
 b. Last date to issue P9D and P11D to relevant employees.</p>
           </div>
         </div>
-        <br/><br/>
+        <br/>
         <div className='container'>
             <div>
                 <h4>Monthly Repeat Submission Dates</h4>
@@ -35,7 +35,7 @@ b. Online CIS monthly returns, detailing payment to contractors made on or befor
 Where a return is nil, HMRC should be advised over the phone.</p>
             </div>
         </div>
-        <br/><br/>
+        <br/>
         <div className='container'>
             <div>
                 <h4>Annual PAYE / CIS - Payment Deadlines</h4>
@@ -53,7 +53,7 @@ Last date for postal payments to be received by HMRC for tax and Class 1B Nation
 Last date for cleared electronic payments to be received by HMRC for tax and Class 1B National Insurance due in respect of PAYE Settlement Agreement.</p>
             </div>
         </div>
-        <br/><br/>
+        <br/>
         <div className='container'>
             <div>
                 <h4>Monthly PAYE / CIS Payment Deadlines</h4>
@@ -63,7 +63,7 @@ Last date for postal payments to be received by HMRC for PAYE / CIS deductions r
 Last date for cleared electronic payments to be received by HMRC for PAYE / CIS deductions relating to the preceding PAYE month.</p>
             </div>
         </div>
-        <br/><br/>
+        <br/>
         <div className='container'>
             <div>
                 <h4>Quarterly Payment Dates</h4>
@@ -73,7 +73,7 @@ Last date for postal payments to be received by HMRC for PAYE / CIS deductions r
 Last date for cleared electronic payments to be received by HMRC for PAYE / CIS deductions relating to the preceding PAYE quarter.</p>
             </div>
         </div>
-        <br/><br/>
+        <br/>
         <div className='container'>
             <div>
                 <h4>Disclaimer</h4>
@@ -81,7 +81,7 @@ Last date for cleared electronic payments to be received by HMRC for PAYE / CIS 
 You should consult us before making any decisions so that we can advise you on the best course of action.</p>
             </div>
         </div>
-        
+        <br/>
   </div>
    </>
   );
