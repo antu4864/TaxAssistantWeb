@@ -4,7 +4,6 @@ const Error=() => {
   return (
    <>
    <h1>opps! just a demo Page not found</h1>
-
    </>
   );
 }
