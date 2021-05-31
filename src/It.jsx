@@ -1,9 +1,8 @@
 import React from 'react';
-import Header from './Header';
+
 const It=() =>{
   return (
 <>
-    <Header/>
     <div className="container1">
         <h2>Income Tax Self-Assessment Filing and Payment Deadlines</h2>
     <div className="container">

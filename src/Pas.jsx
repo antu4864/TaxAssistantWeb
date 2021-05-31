@@ -1,9 +1,9 @@
 import React from 'react';
-import Header from './Header';
+
 const Pas=() =>{
   return (
    <>
-        <Header/>
+       
   <div className="container1">
     <h2>Pay as You Earn (PAYE) and Construction Industry Scheme (CIS) Filing and Payment Deadlines</h2>
         <div className="container">
