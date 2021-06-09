@@ -12,15 +12,15 @@ const Menu=() => {
           <div className='con'>
              <div >
                
-              <Link to="/keytaxdate" className='Link'>Capital Grains Tax Filing and Payment Deadlines Filing Date</Link>
+              <Link to="/keytaxdate" className='Link'><div>Capital Grains Tax Filing and Payment Deadlines Filing Date</div></Link>
               <hr/>
-              <Link to="/cg" className='Link' >Corporation Tax & Companies House Statutory Filing Dates</Link>
+              <Link to="/cg" className='Link' ><div>Corporation Tax & Companies House Statutory Filing Dates</div></Link>
               <hr/>
-              <Link to="/It" className='Link'>Inocme Tax Self-Assessment Filing and Payment Deadlines </Link>
+              <Link to="/It" className='Link'><div>Inocme Tax Self-Assessment Filing and Payment Deadlines</div> </Link>
               <hr/>
-              <Link to="/Pas" className='Link'>Pay as You Earn (PAYE) and Construction Industry Scheme (CIS) Filing and Payment Deadlines </Link>
+              <Link to="/Pas" className='Link'><div>Pay as You Earn (PAYE) and Construction Industry Scheme (CIS) Filing and Payment Deadlines</div> </Link>
               <hr/>
-              <Link to="/Vat" className='Link'>VAT Filing and Payment Deadlines</Link>
+              <Link to="/Vat" className='Link'><div>VAT Filing and Payment Deadlines</div></Link>
               <hr/>
             </div>        
           
