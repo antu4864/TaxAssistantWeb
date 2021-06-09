@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TaxAssistantWeb/static/css/main.4f12938c.chunk.css",
-    "main.js": "/TaxAssistantWeb/static/js/main.439440f6.chunk.js",
-    "main.js.map": "/TaxAssistantWeb/static/js/main.439440f6.chunk.js.map",
+    "main.js": "/TaxAssistantWeb/static/js/main.f865d9e1.chunk.js",
+    "main.js.map": "/TaxAssistantWeb/static/js/main.f865d9e1.chunk.js.map",
     "runtime-main.js": "/TaxAssistantWeb/static/js/runtime-main.e7fa8ac4.js",
     "runtime-main.js.map": "/TaxAssistantWeb/static/js/runtime-main.e7fa8ac4.js.map",
     "static/js/2.45b7536f.chunk.js": "/TaxAssistantWeb/static/js/2.45b7536f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e7fa8ac4.js",
     "static/js/2.45b7536f.chunk.js",
     "static/css/main.4f12938c.chunk.css",
-    "static/js/main.439440f6.chunk.js"
+    "static/js/main.f865d9e1.chunk.js"
   ]
 }
