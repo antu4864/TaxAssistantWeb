@@ -1,9 +1,9 @@
 import React from 'react';
-import Header from './Header';
+
 const Vta=() =>{
   return (
 <>
-    <Header/>
+   
     <div className='container1'>
         <div>
            <h2>VAT Filing and Payment Deadlines</h2>

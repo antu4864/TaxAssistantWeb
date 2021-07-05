@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from './Header';
+
 
 const Keytaxdate=() => {
   return (
     
    <>
-    <Header/>
+   
     <div className="container1">
     <h2>Capital Grains Tax Filing and Payment Deadlines Filing Date</h2>
         <div className="container">
