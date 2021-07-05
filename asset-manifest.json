@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TaxAssistantWeb/static/css/main.4f12938c.chunk.css",
+    "main.css": "/TaxAssistantWeb/static/css/main.8bfae03c.chunk.css",
     "main.js": "/TaxAssistantWeb/static/js/main.f865d9e1.chunk.js",
     "main.js.map": "/TaxAssistantWeb/static/js/main.f865d9e1.chunk.js.map",
     "runtime-main.js": "/TaxAssistantWeb/static/js/runtime-main.e7fa8ac4.js",
@@ -8,13 +8,13 @@
     "static/js/2.45b7536f.chunk.js": "/TaxAssistantWeb/static/js/2.45b7536f.chunk.js",
     "static/js/2.45b7536f.chunk.js.map": "/TaxAssistantWeb/static/js/2.45b7536f.chunk.js.map",
     "index.html": "/TaxAssistantWeb/index.html",
-    "static/css/main.4f12938c.chunk.css.map": "/TaxAssistantWeb/static/css/main.4f12938c.chunk.css.map",
+    "static/css/main.8bfae03c.chunk.css.map": "/TaxAssistantWeb/static/css/main.8bfae03c.chunk.css.map",
     "static/js/2.45b7536f.chunk.js.LICENSE.txt": "/TaxAssistantWeb/static/js/2.45b7536f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e7fa8ac4.js",
     "static/js/2.45b7536f.chunk.js",
-    "static/css/main.4f12938c.chunk.css",
+    "static/css/main.8bfae03c.chunk.css",
     "static/js/main.f865d9e1.chunk.js"
   ]
 }
