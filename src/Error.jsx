@@ -1,12 +1,11 @@
-import React from 'react';
+import React from "react";
 
-const Error=() => {
+const Error = () => {
   return (
-   <>
-   <h1>opps! just a demo Page not found</h1>
-
-   </>
+    <>
+      <h1>opps! just a demo Page not found</h1>
+    </>
   );
-}
+};
 
 export default Error;
