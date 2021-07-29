@@ -17,7 +17,7 @@ const Menu = () => {
           </Link>
           <hr />
           <Link to="/It" className="Link">
-            <div>Inocme Tax Self-Assessment Filing and Payment Deadlines</div>{" "}
+            <div>Income Tax Self-Assessment Filing and Payment Deadlines</div>{" "}
           </Link>
           <hr />
           <Link to="/Pas" className="Link">
